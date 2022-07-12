@@ -30,4 +30,7 @@ Webbench对服务器进行压力测试，经压力测试可以实现上万的并
 > * 每秒钟传输数据量：1031990 bytes/sec
 > * 所有访问均成功
 
-<div align=center><img src="https://github.com/twomonkeyclub/TinyWebServer/blob/master/root/testresult.png" height="201"/> </div>
+![testresult.png (545×201) (jsdelivr.net)](https://test1.jsdelivr.net/gh/twomonkeyclub/TinyWebServer/root/testresult.png)
+
+
+
